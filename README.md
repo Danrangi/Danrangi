@@ -18,6 +18,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Danrangi?style=for-the-badge&color=7b2ff7&labelColor=0d1117&logo=github)](https://github.com/Danrangi)
 &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/Danrangi?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/Danrangi)
+&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?color=7b2ff7&labelColor=0d1117&label=REPOSITORIES&query=%24.public_repos&url=https://api.github.com/users/Danrangi&style=for-the-badge&logo=github)
 
 </div>
 
@@ -31,8 +33,8 @@
 ```yaml
 name: Danrangi
 role: Computer Science Student | Software Engineer | AI Enthusiast
-location: Earth
-education: B.Sc. Computer Science (In Progress)
+location: Nigeria
+education: B.Sc. Computer Science 
 
 fields_of_interest:
   - "Artificial Intelligence & Machine Learning"
@@ -230,6 +232,7 @@ Quantum Computing:
 
 <br/>
 
+<!-- Profile Summary Cards -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danrangi&theme=tokyonight" width="95%" alt="Profile Details"/>
 </div>
@@ -244,7 +247,26 @@ Quantum Computing:
 <br/>
 
 <div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danrangi&theme=tokyonight" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danrangi&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danrangi&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════ CONTRIBUTION CALENDAR ════════════════════ -->
+## 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00d4ff/Danrangi" alt="Contribution Calendar" width="95%"/>
 </div>
 
 <br/>
@@ -262,19 +284,7 @@ Quantum Computing:
 
 ---
 
-<!-- ════════════════════ DEV QUOTE ════════════════════ -->
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
-<br/>
-
----
-
-<!-- ════════════════════ SNAKE (uncomment after setup) ════════════════════ -->
-<!--
+<!-- ════════════════════ SNAKE ════════════════════ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -285,10 +295,22 @@ Quantum Computing:
   </picture>
 </div>
 
+> ⚙️ *Snake appears after you set up the [GitHub Action](#-enable-snake-animation-instructions-below)*
+
 <br/>
 
 ---
--->
+
+<!-- ════════════════════ DEV QUOTE ════════════════════ -->
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+<br/>
+
+---
 
 <!-- ════════════════════ CONNECT ════════════════════ -->
 ## 🌐 Let's Connect
