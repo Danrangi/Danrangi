@@ -1,17 +1,3 @@
-
-
-# 🔥 The Ultimate GitHub Profile README
-
-Here's the **complete, final version** with every upgrade combined — better than everything before. Just copy, customize, and deploy.
-
----
-
-## 📋 COMPLETE README.md (Copy This Entire Thing)
-
-```markdown
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:00d4ff,75:7b2ff7,100:0d1117&height=250&section=header&text=Danrangi&fontSize=75&fontColor=ffffff&fontAlignY=33&desc=Computer%20Science%20%E2%80%A2%20AI%20%26%20Data%20Science%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Blockchain%20%E2%80%A2%20Quantum&descSize=16&descAlignY=55&animation=twinkling" width="100%"/>
 </div>
