@@ -14,15 +14,6 @@ I like building systems and learning how things actually work — especially in:
 ## What I'm doing now
 
 - Learning and Building 
-
----
-
-## How I think
-
-- simple solutions > complex ones  
-- understanding > copying  
-- consistency > motivation  
-
 ---
 
 ## Projects
