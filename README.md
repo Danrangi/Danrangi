@@ -13,10 +13,7 @@ I like building systems and learning how things actually work — especially in:
 
 ## What I'm doing now
 
-- working on a face-based attendance system  
-- improving how I design backend systems (not just making them work)  
-- learning how data flows through real systems  
-- trying to write cleaner, simpler code  
+- Learning and Building 
 
 ---
 
