@@ -29,10 +29,7 @@ Some things you'll find here:
 
 ## Current focus
 
-Right now I'm trying to get better at:
-- designing APIs properly  
-- structuring larger codebases  
-- thinking in systems, not just features  
+Right now I'm trying to get better at things and learn more about them
 
 ---
 
