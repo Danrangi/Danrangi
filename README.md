@@ -1,34 +1,74 @@
 # Ahmad Danrangi
 
-CS student from Nigeria. I build systems to understand how they actually work — not just how to use them.
+> CS student building systems to understand how they work — not just how to use them.
 
-## What I care about
-
-**Backend & Infrastructure** — APIs, databases, designing systems that scale  
-**Machine Learning** — Understanding the math, not just calling sklearn  
-**Distributed Systems** — Failure modes, consistency, the hard problems  
-**Blockchain** — Still learning this properly  
-**Quantum Computing** — Very early interest
-
-## What's here
-
-- **[Face-Re-Id](https://github.com/Danrangi/Face-Re-Id)** — Face recognition attendance system. Real problem, actual implementation.
-- **Concept projects** — Systems built to learn something, not production-ready
-- **Experiments** — Ideas in progress, some won't finish
-- **Tools** — Things I built because I needed them
-
-Nothing is polished. Everything is a learning step.
-
-## Currently
-
-Leveling up on systems design fundamentals and practical ML. Building in public.
-
-## Open to
-
-- Collaborating on interesting problems
-- Code reviews and honest feedback
-- Discussing how things work under the hood
+Based in Nigeria | Backend & ML Enthusiast | Systems Architecture Explorer
 
 ---
 
-*Still learning. Always open to being corrected.*
+## 🎯 What I'm Focused On
+
+- **Backend & Infrastructure** — Designing scalable APIs, databases, and distributed systems
+- **Machine Learning** — Deep learning the math, not just calling frameworks
+- **Distributed Systems** — Understanding failure modes, consistency models, tradeoffs
+- **Blockchain** — Cryptography, consensus mechanisms, real-world applications
+- **Quantum Computing** — Early-stage exploration into the future of computing
+
+---
+
+## 📚 Featured Projects
+
+### [Face-Re-Id](https://github.com/Danrangi/Face-Re-Id)
+Real problem, real implementation. Face recognition system for attendance tracking.
+- Built for practical use, not just theory
+- Explores computer vision fundamentals
+- ⭐ Start here to see my approach to end-to-end projects
+
+### [Other Repositories](https://github.com/Danrangi?tab=repositories)
+- **Concept Projects** — Systems built to deeply understand a technology
+- **Experiments** — Ideas in progress; some won't finish (that's intentional)
+- **Tools** — Things I built because I needed them
+
+---
+
+## 🚀 What I'm Currently Doing
+
+Leveling up on:
+- Systems design fundamentals and architectural patterns
+- Practical ML engineering (not just research)
+- Building publicly and documenting the learning process
+
+---
+
+## 💡 I'm Open To
+
+- **Collaborating** on interesting problems that teach me something new
+- **Code reviews** — honest, detailed feedback helps me improve
+- **Technical discussions** — how things work under the hood, tradeoffs, design decisions
+- **Mentorship** — both directions; I learn from everyone
+
+---
+
+## 🔗 Let's Connect
+
+- **GitHub Issues** — Best place to discuss ideas or collaborate on projects
+- **Interested in collaborating?** Open an issue or reach out
+
+---
+
+## 📊 My Approach
+
+```
+Learning → Building → Failing → Understanding → Shipping
+                    ↑                           ↓
+                    └───────────────────────────┘
+```
+
+- Nothing ships polished — everything is a learning step
+- I value depth over breadth
+- Public learning > private perfection
+- Always open to being corrected
+
+---
+
+*Last updated: 2026-07-05*
